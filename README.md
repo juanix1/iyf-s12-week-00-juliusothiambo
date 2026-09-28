@@ -1,5 +1,5 @@
 
-# IYF S12 Group Project 🚀
+# IYF S12 Group Project 
 
 ## About the Project
 This project is part of the IYF Season 12 learning program.
@@ -13,13 +13,22 @@ HTML, Git and GitHub.
 - Learn how to collaborate on projects.
 - Build a foundation in web development.
 
-## Group Members
-| Name | Role |
-|---|---|
-| Julius Othiambo | Team Member |
-| Member 2 | Team Member |
-| Member 3 | Team Member |
-| Member 4 | Team Member |
+## Team Members
+
+### 1. Julius Othiambo - Team Lead
+Tools and environment setup for ethical hacking.
+
+### 2. Clinton Hamisi - Programming Languages
+Focus on languages we use for security scripting.
+
+### 3. Mulwa theophilas- VSCode Tips
+Productivity tips for developers.
+
+### 4. Hajira-Zainab Study Techniques
+How we learn effectively as a team.
+
+### 5. Fidele-Rudakugwa- Networking Basics
+Fundamentals of networks for hacking
 
 ## Technologies Used
 - HTML5
