@@ -1,59 +1,31 @@
+Hi, I'm Julius Othiambo 👋
 
-# IYF S12 Group Project 🚀
+Aspiring Software Developer
 
-## About the Project
-This project is part of the IYF Season 12 learning program.
-It was developed collaboratively as a group to practice
-HTML, Git and GitHub.
+I'm a student learning software development and web development. I'm passionate about creating websites, solving problems and learning new technologies.
 
-## Project Objectives
-- Learn how to work as a development team.
-- Practice writing clean HTML.
-- Understand Git and GitHub.
-- Learn how to collaborate on projects.
-- Build a foundation in web development.
+🛠️ Skills
 
-## Group Members
-| Name | Role |
-|---|---|
-| Julius Othiambo | Team Member |
-| Member 2 | Team Member |
-| Member 3 | Team Member |
-| Member 4 | Team Member |
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
 
-## Technologies Used
-- HTML5
-- Git
-- GitHub
-- Markdown
+🎯 My Goals
 
-## Project Features
-- Home page
-- About page
-- Projects page
-- Contact page
+- Build responsive websites
+- Become a full-stack developer
+- Work on real-world projects
+- Build a professional developer portfolio
 
-## How to Run the Project
-1. Clone the repository.
-2. Open the project folder.
-3. Open index.html in a web browser.
+📂 My Projects
 
-## What We Learned
-- Team collaboration
-- Version control with Git
-- Managing repositories on GitHub
-- Creating web pages with HTML
-- Writing documentation using Markdown
+- IYF Season 12 – Week 0
+- My personal portfolio
 
-## Contributions
-Each group member contributed to the project
-through coding, testing, reviewing and collaboration.
+🔗 Links
 
-## Repository
-This project is managed using GitHub.
+- GitHub: https://github.com/juanix
+- Portfolio: Coming soon
 
-## License
-This project is for educational purposes.
-
----
-Created by IYF Season 12 Group
+⚙️ Setup
